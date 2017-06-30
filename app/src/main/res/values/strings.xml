@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">小智手柄</string>
+    <string name="str_discover_title">发现的智视AR眼镜</string>
+    <string name="str_paired">已配对</string>
+    <string name="str_no_paired">没有已配对的设备</string>
+    <string name="str_no_location_rermission">拒绝定位权限,影响蓝牙使用</string>
+    <string name="str_unpaired">未配对</string>
+    <string name="str_openbt">请先打开蓝牙</string>
+    <string name="str_attention_notify">注意通知栏配对消息</string>
+    <string name="str_connected">已连接</string>
+    <string name="str_reconnect_count">正第%d次重连&#8230;</string>
+    <string name="str_check_bt_enable">请检查眼镜端蓝牙是否打开</string>
+    <string name="str_exit">再按一次退出程序</string>
+    <string name="str_link_success">连接成功</string>
+    <string name="str_undefine">未定义</string>
+
+    <string name="app_bluetooth">蓝牙</string>
+    <string name="app_wifi">wifi</string>
+    <string name="str_undiscover">未发现可连接设备,请下拉刷新</string>
+    <string name="str_unchache">未缓存智视AR眼镜</string>
+    <string name="str_pubtitle">白泽网络</string>
+    <string name="str_close_bluetooth">白泽网络</string>
+    <string name="str_open_bluetooth">打开蓝牙</string>
+    <string name="str_search_bluetooth">搜索蓝牙</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_ok">确定</string>
+    <string name="str_link">连接</string>
+    <string name="str_touchhere">请在下面触摸</string>
+
+    <string name="app_tips">tips</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tips"> A </string>
+    <string name="subtype_en_US">白泽</string>
+    <string name="str_bt_title">发现的设备</string>
+    <string name="str_search_bt">蓝牙设备搜索中...</string>
+    <string name="str_edit_dialog_tips">请输入消息...</string>
+    <string name="str_skip">立即使用</string>
+    <string name="str_game_ctrl">Control handle mode</string>
+    <string name="str_new_version">新版本</string>
+    <string name="str_new_version_tips">发现新版本,是否马上更新？</string>
+
+    <string name="str_wifi_opened">wifi已经开启了</string>
+    <string name="str_wifi_closed">wifi已经关闭了</string>
+    <string name="str_wifi_reclosed">请重新关闭</string>
+    <string name="str_wifi_closing">wifi关闭中</string>
+
+    <string name="str_wifi_opening">wifi开启中</string>
+    <string name="str_wifi_status_error">没有获取到WiFi状态</string>
+    <string name="str_nowifi">当前区域没有无线网络</string>
+    <string name="str_scran_later">wifi正在开启，请稍后扫描</string>
+    <string name="str_close_tips">WiFi没有开启</string>
+
+    <string name="str_wifi_title">使智能眼镜连接wifi网络</string>
+    <string name="str_ap_title">创建热点</string>
+    <string name="str_pwd">密码</string>
+    <string name="str_wifi_connect">一键连接wifi</string>
+    <string name="str_noconnect">暂不连接</string>
+    <string name="str_ar_glass_unconnect">AR眼镜未连接wifi</string>
+    <string name="str_ar_glass_connected">AR眼镜已连接wifi</string>
+    <string name="str_wifi_unconnected">没有发现可连接的wifi,请先使手机连接wifi网络</string>
+    <string name="str_wificonnectting_tips">眼镜连接网络</string>
+    <string name="str_wifi_first">请先连接网络</string>
+    <string name="str_wifi_info">正在验证wifi信息</string>
+    <string name="str_ap_info">正在验证热点信息</string>
+    <string name="str_wifi_error_pwd">验证超时</string>
+    <string name="str_check_pwd">正在验证密码...</string>
+    <string name="str_ap_name">热点名称</string>
+    <string name="str_ap_pwd_tips">密码长度应该大于8位</string>
+    <string name="str_ap_failed">热点创建失败</string>
+    <string name="str_ap_success">热点创建成功,已发送给眼镜</string>
+    <string name="str_pwd_empty_tips">密码不能为空</string>
+    <string name="str_ssid_empty_tips">热点名称不能空</string>
+
+
+</resources>
